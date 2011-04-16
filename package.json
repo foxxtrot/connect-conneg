@@ -1,0 +1,17 @@
+{
+  "name": "connect-conneg",
+  "description": "A Content-Negiotiation processor for the Connect Middleware",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foxxtrot/connect-conneg.git"
+  },
+  "author": "Jeff Craig <foxxtrot@foxxtrot.net> (http://blog.foxxtrot.net/)",
+  "main": "./index",
+  "directories": {
+    "lib": "./lib"
+  },
+  "engines": {
+    "node": "0.4.1"
+  }
+}
