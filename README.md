@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/foxxtrot/connect-conneg.png)](http://travis-ci.org/foxxtrot/connect-conneg)
 connect-conneg
 --------------
 
